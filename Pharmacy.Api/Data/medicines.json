@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Paracetamol",
+    "Notes": "Fever medicine",
+    "ExpiryDate": "2026-07-15T00:00:00",
+    "Quantity": 91,
+    "Price": 20.50,
+    "Brand": "ABC Pharma"
+  },
+  {
+    "Id": 2,
+    "FullName": "Crocin",
+    "Notes": "",
+    "ExpiryDate": "2027-06-09T00:00:00",
+    "Quantity": 5,
+    "Price": 35.0,
+    "Brand": "GSK"
+  },
+  {
+    "Id": 3,
+    "FullName": "Amoxicillin",
+    "Notes": "Antibiotic",
+    "ExpiryDate": "2026-07-10T00:00:00",
+    "Quantity": 50,
+    "Price": 120.00,
+    "Brand": "Sun Pharma"
+  },
+  {
+    "Id": 4,
+    "FullName": "Cetirizine",
+    "Notes": "Allergy relief",
+    "ExpiryDate": "2028-01-20T00:00:00",
+    "Quantity": 75,
+    "Price": 18.75,
+    "Brand": "Cipla"
+  },
+  {
+    "Id": 5,
+    "FullName": "Azithromycin 250mg",
+    "Notes": "Antibiotic for respiratory infections",
+    "ExpiryDate": "2027-10-10T00:00:00",
+    "Quantity": 30,
+    "Price": 150,
+    "Brand": "Pfizer"
+  }
+]

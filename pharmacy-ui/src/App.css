@@ -1,0 +1,21 @@
+body {
+  background-color: #f5f7fa;
+}
+
+.card {
+  border: none;
+  border-radius: 12px;
+}
+
+.card-header {
+  font-weight: 600;
+}
+
+.table td,
+.table th {
+  vertical-align: middle;
+}
+
+h2 {
+  font-weight: 700;
+}
